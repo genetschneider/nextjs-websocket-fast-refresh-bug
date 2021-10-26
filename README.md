@@ -3,9 +3,9 @@
 This example repository shows how the Websocket fast refresh doesn't work if assetPrefix is defined.
 
 ## Running the example
-`npm i`
-`npm run dev`
-`open http://localhost:3000`
+- `npm i`
+- `npm run dev`
+- `open http://localhost:3000`
 
 Notice an error in console
 ```
